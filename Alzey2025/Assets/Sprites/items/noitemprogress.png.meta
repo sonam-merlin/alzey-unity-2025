@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 5bc2f5eeef5d8d34fa5e4be42e2bcff1
+guid: 678a5965ac13c9c44a2cca387c0e73c8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8501376515149994920
-    second: hbackground_0
+      213: 250881044980045581
+    second: noitemprogress_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: hbackground_0
+      name: noitemprogress_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 3
         y: 0
-        width: 320
-        height: 180
+        width: 25
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8ab1d57f5e4faf570800000000000000
-      internalID: 8501376515149994920
+      spriteID: d071aee2bfe4b7300800000000000000
+      internalID: 250881044980045581
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      hbackground_0: 8501376515149994920
+      noitemprogress_0: 250881044980045581
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

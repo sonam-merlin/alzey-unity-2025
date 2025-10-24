@@ -1,22 +1,25 @@
 fileFormatVersion: 2
-guid: ac6e89666143a7640aa39634b57e023c
+guid: 7ee461a306d06e94889cf929143c2cef
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3810668854389020567
-    second: vbackground_0
+      213: -7897091503505946148
+    second: item progress obtain_0
   - first:
-      213: -2498798488228235734
-    second: vbackground_1
+      213: 2577483807769385198
+    second: item progress obtain_1
   - first:
-      213: 6965357087371203723
-    second: vbackground_2
+      213: -3608580930806795277
+    second: item progress obtain_2
   - first:
-      213: -5317785113994521487
-    second: vbackground_3
+      213: 596835069922631423
+    second: item progress obtain_3
   - first:
-      213: -7683769378780724383
-    second: vbackground_4
+      213: -223469297015589557
+    second: item progress obtain_4
+  - first:
+      213: 2601592595211220067
+    second: item progress obtain_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -58,7 +61,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -84,7 +87,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -112,13 +115,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: vbackground_0
+      name: item progress obtain_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 169
-        height: 53
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,20 +130,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9686f71edd8cd1bc0800000000000000
-      internalID: -3810668854389020567
+      spriteID: cd9c5ce3e15e76290800000000000000
+      internalID: -7897091503505946148
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vbackground_1
+      name: item progress obtain_1
       rect:
         serializedVersion: 2
-        x: 174
+        x: 32
         y: 0
-        width: 26
-        height: 68
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -149,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a267fdf930c725dd0800000000000000
-      internalID: -2498798488228235734
+      spriteID: ee85a68fddf05c320800000000000000
+      internalID: 2577483807769385198
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vbackground_2
+      name: item progress obtain_2
       rect:
         serializedVersion: 2
-        x: 216
+        x: 64
         y: 0
-        width: 48
-        height: 42
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,20 +174,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b84928eed5be9a060800000000000000
-      internalID: 6965357087371203723
+      spriteID: 3f3330433cebbedc0800000000000000
+      internalID: -3608580930806795277
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vbackground_3
+      name: item progress obtain_3
       rect:
         serializedVersion: 2
-        x: 262
+        x: 96
         y: 0
-        width: 42
-        height: 52
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,20 +196,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1741f781d9e6336b0800000000000000
-      internalID: -5317785113994521487
+      spriteID: ffedb3c7552684800800000000000000
+      internalID: 596835069922631423
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vbackground_4
+      name: item progress obtain_4
       rect:
         serializedVersion: 2
-        x: 305
+        x: 128
         y: 0
-        width: 15
-        height: 35
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,8 +218,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 16340c9d574cd5590800000000000000
-      internalID: -7683769378780724383
+      spriteID: b45fd2dbbd316ecf0800000000000000
+      internalID: -223469297015589557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item progress obtain_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364f9d77ea6ba1420800000000000000
+      internalID: 2601592595211220067
       vertices: []
       indices: 
       edges: []
@@ -225,7 +250,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 6c6fd8b2e06521d47b37e5e7b1ce6aa5
     internalID: 0
     vertices: []
     indices: 
@@ -235,11 +260,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      vbackground_0: -3810668854389020567
-      vbackground_1: -2498798488228235734
-      vbackground_2: 6965357087371203723
-      vbackground_3: -5317785113994521487
-      vbackground_4: -7683769378780724383
+      item progress obtain_0: -7897091503505946148
+      item progress obtain_1: 2577483807769385198
+      item progress obtain_2: -3608580930806795277
+      item progress obtain_3: 596835069922631423
+      item progress obtain_4: -223469297015589557
+      item progress obtain_5: 2601592595211220067
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
